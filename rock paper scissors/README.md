@@ -14,7 +14,3 @@ A classic Rock Paper Scissors game implemented using JavaScript.
 
 
 
-## Tech Stack
-- JavaScript (ES6)
-- HTML
-- CSS
