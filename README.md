@@ -8,3 +8,10 @@ This repository contains **beginner-level JavaScript projects** built to strengt
 
 ### 1. Todo List
 ### 2. Rock Paper Scissors
+
+---
+
+## Tech Stack
+- JavaScript (ES6)
+- HTML
+- CSS
